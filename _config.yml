@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0D8D0'
+    - '#107008'
+    - '#60B050'
+    - '#209810'
+    - '#90D088'
+  brandStrength: 1
+  lightness: 0.663028
+  rhythmicContrast: 0.751126
+  saturation: 0.708333
+cta: {}
+layout_spectrum: 1
+name: Michael Carty Photography
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.915541
