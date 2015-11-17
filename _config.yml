@@ -1,4 +1,19 @@
-analytics: {}
+name: Michael Carty Photography
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D0D8D0'
@@ -8,11 +23,9 @@ color:
     - '#90D088'
   brandStrength: 1
   lightness: 0.663028
-  rhythmicContrast: 0.751126
   saturation: 0.708333
-cta: {}
-layout_spectrum: 1
-name: Michael Carty Photography
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.915541
+  rhythmicContrast: 0.751126
+purpose:
+  - name: null
+    item: null
+    url: null
